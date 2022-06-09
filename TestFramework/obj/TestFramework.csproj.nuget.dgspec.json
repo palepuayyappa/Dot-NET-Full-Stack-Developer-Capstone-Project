@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj": {}
+    "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj": {}
   },
   "projects": {
-    "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj": {
+    "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj",
+        "projectUniqueName": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj",
         "projectName": "TestFramework",
-        "projectPath": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj",
-        "packagesPath": "C:\\Users\\ramakrishna_mastamar\\.nuget\\packages\\",
-        "outputPath": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\obj\\",
+        "projectPath": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\TestFramework.csproj",
+        "packagesPath": "C:\\Users\\palepu_ayyappa\\.nuget\\packages\\",
+        "outputPath": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\TestFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ramakrishna_mastamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\palepu_ayyappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

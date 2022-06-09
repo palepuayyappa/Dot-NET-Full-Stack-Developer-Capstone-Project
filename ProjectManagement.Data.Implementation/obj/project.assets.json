@@ -1288,23 +1288,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ramakrishna_mastamar\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\palepu_ayyappa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj",
+      "projectUniqueName": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj",
       "projectName": "E-healthcare.Data",
-      "projectPath": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj",
-      "packagesPath": "C:\\Users\\ramakrishna_mastamar\\.nuget\\packages\\",
-      "outputPath": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Data.Implementation\\obj\\",
+      "projectPath": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj",
+      "packagesPath": "C:\\Users\\palepu_ayyappa\\.nuget\\packages\\",
+      "outputPath": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Data.Implementation\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ramakrishna_mastamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\palepu_ayyappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1316,12 +1312,13 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
-              "projectPath": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
+            "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+              "projectPath": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
             },
-            "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
-              "projectPath": "C:\\FDSTraining\\FSD_Projects\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
+            "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
+              "projectPath": "C:\\Gnani\\Work\\FSD\\Dot NET Full Stack Developer Capstone Project\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
             }
           }
         }
@@ -1334,6 +1331,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1362,7 +1360,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
